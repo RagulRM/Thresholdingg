@@ -78,31 +78,35 @@ for i in range(0,9):
 
 ### Original Image
 <br>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/2025b34a-c94b-4637-834a-be5497d6665d" width=65%>
+
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/275c7d91-68ac-422c-93a3-7a787ad762ea)
 
 <br>
 
 ### Global Thresholding
 <br>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/e71e6231-1988-4cfe-9895-7f3af798859f" width=65%>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/a7d02d51-79a2-4dfc-9c8f-4ddf1be9ef2b" width=65%>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/9152ae90-691f-42c4-a972-9d42ad8efc5b" width=65%>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/7960572e-11ce-4b99-8216-516a576cef35" width=65%>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/0cb1621b-1ed3-43f9-aa90-d8730ce6a598" width=65%>
+
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/f56feda0-64d4-4bd8-8b35-74b54a771738)
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/16367ce1-6fac-44c2-8fbd-d7179f326bf3)
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/29bf6154-93ba-4723-b370-4f1017e5eafc)
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/efe4ea74-7b2a-443e-97ff-75b9e55f5d6f)
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/f5c69731-0fed-4435-b591-614282824ea8)
 
 <br>
 
 ### Adaptive Thresholding
 <br>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/9adda608-b381-48aa-a18d-ff17cf5fc194" width=65%>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/d3b46286-b5dd-4e0b-8d86-f18737aa7964" width=65%>
+
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/82b51f44-3616-4c9e-8ed9-58d1dd08840c)
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/ff0e7448-6a71-4088-bd86-10463ac3d61a)
 
 <br>
 
 
 ### Optimum Global Thesholding using Otsu's Method
 <br>
-<img src="https://github.com/Jenishajustin/Thresholdingg/assets/119405070/ea95e603-397a-4666-a19b-f0822f656124" width=65%>
+
+![image](https://github.com/RagulRM/Thresholdingg/assets/121609342/62ffd49a-7d67-47c9-8f21-3338e1c7746c)
 
 <br>
 
